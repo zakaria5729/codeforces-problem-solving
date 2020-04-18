@@ -13,5 +13,7 @@ public class Watermelon_4A {
 		} else {
 			System.out.println("YES\n");
 		}
+		
+		sc.close();
 	}
 }
