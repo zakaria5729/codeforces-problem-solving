@@ -3,7 +3,11 @@ package div2_A;
 import java.util.Scanner;
 
 public class WayTooLongWords_71A {
-
+	
+	/*
+	 * https://codeforces.com/problemset/problem/71/A
+	 */
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();

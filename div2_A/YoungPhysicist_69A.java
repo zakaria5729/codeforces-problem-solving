@@ -3,7 +3,11 @@ package div2_A;
 import java.util.Scanner;
 
 public class YoungPhysicist_69A {
-		
+	
+	/*
+	 * https://codeforces.com/problemset/problem/69/A
+	 */		
+	
 	public static void main(String[] args) {
 		int num, sum1 = 0, sum2 = 0, sum3 = 0, x, y, z;
 		
